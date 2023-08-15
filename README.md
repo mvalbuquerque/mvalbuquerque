@@ -1,8 +1,5 @@
 ### Olá, meu nome é Vinny Albuquerque. 👋🏻
 
-
-<img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/14190112?s=96&v=4">
-
 +10 years of experience in information technology and +5 in the omni-channel concept
 enabling end-to-end mobile / web / backend, channels from order to payment, +200 apps published in AppStore/PlayStore. 
 
